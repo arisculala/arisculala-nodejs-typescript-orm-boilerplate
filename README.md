@@ -32,9 +32,18 @@ $ cp .env.example .env
 ```bash
 $ npm install
 ```
-4. Run the service
+4. Build the service
+```bash
+$ npm run build
+```
+5. Run the service
 ```bash
 $ npm run start
 ```
+6. Check service is running
+```bash
+localhost:3000/api/healthcheck/liveness
+```
+
 
 ## References
