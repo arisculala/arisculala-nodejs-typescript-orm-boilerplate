@@ -15,7 +15,7 @@
     "dev": "npm run format && npm run build && node dist/index.js"
   },
   "author": "arisculala",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "dotenv": "^16.4.5",
